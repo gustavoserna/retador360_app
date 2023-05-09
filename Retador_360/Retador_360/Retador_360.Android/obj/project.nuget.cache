@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "+z1YFkfZAYDodBjBHdTLV0LJimMpki7lIlg7OXrF/9YIawLsJ3usS26pVH35CozmWvWqVxmr41GaKOReKOYXtA==",
+  "dgSpecHash": "uX+gNCy9GC8UxcxUgl4i9lGA/5r4mrDsO+zOGYf2kORnMPXAbzgzmEQ2lZ+wzs1Jha/zS1vSSZn4zVMTcg6qjw==",
   "success": true,
   "projectFilePath": "D:\\Users\\Alonso Martinez\\source\\repos\\retador360_app\\Retador_360\\Retador_360\\Retador_360.Android\\Retador_360.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alonso Martinez\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Alonso Martinez\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
     "C:\\Users\\Alonso Martinez\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "C:\\Users\\Alonso Martinez\\.nuget\\packages\\xamarin.androidx.annotation\\1.2.0.1\\xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",
     "C:\\Users\\Alonso Martinez\\.nuget\\packages\\xamarin.androidx.annotation.experimental\\1.1.0.1\\xamarin.androidx.annotation.experimental.1.1.0.1.nupkg.sha512",

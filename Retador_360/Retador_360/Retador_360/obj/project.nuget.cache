@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "r1q4Km91a0ue3bgtGXgAWXxt2l+yhguXDW3YCU9KctKvPPm1T5BtbcpBTku/8LgvKe1/EEpXy4zsvdznBMMfSw==",
+  "dgSpecHash": "aq4o4qr4HA4k6J3ntgNes/4o+IS74z1ZfnlEiVVFUG8+r9xl91tmjJB9/RWLaLrY9gwm8itwgp3SNUzDRpOb8g==",
   "success": true,
   "projectFilePath": "D:\\Users\\Alonso Martinez\\source\\repos\\retador360_app\\Retador_360\\Retador_360\\Retador_360\\Retador_360.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\Alonso Martinez\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Alonso Martinez\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
     "C:\\Users\\Alonso Martinez\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\Alonso Martinez\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],

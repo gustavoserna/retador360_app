@@ -1,6 +1,7 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using Retador_360.Vistas;
 
 namespace Retador_360
 {
@@ -10,7 +11,7 @@ namespace Retador_360
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new Captura();
         }
 
         protected override void OnStart()
