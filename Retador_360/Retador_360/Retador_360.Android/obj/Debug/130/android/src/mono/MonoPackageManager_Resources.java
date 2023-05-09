@@ -4,6 +4,7 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "Retador_360.Android.dll" comes first in this list. */
 		"Retador_360.Android.dll",
 		"FormsViewGroup.dll",
+		"Plugin.Media.dll",
 		"Retador_360.dll",
 		"Xamarin.AndroidX.Activity.dll",
 		"Xamarin.AndroidX.Annotation.dll",

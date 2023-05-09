@@ -4,9 +4,15 @@
              x:Class="Retador_360.Vistas.Captura">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Button x:Name="takePhoto" Text="Take Photo" />
+            <Button x:Name="pickPhoto" Text="Pick Photo" />
+            <Button x:Name="takeVideo" Text="Take Video" />
+            <Button x:Name="pickVideo" Text="Pick Video" />
+            <Label Text="Save to Gallery" />
+            <Switch x:Name="saveToGallery" IsToggled="False" HorizontalOptions="Center"/>
+            <Label Text="Image will show here"/>
+            <Image x:Name="image" />
+            <Label Text="" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
