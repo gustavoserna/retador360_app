@@ -4,8 +4,6 @@
              x:Class="Retador_360.Vistas.Captura">
     <ContentPage.Content>
         <StackLayout>
-            <Button x:Name="takePhoto" Text="Take Photo" />
-            <Button x:Name="pickPhoto" Text="Pick Photo" />
             <Button x:Name="takeVideo" Text="Take Video" />
             <Button x:Name="pickVideo" Text="Pick Video" />
             <Label Text="Save to Gallery" />
