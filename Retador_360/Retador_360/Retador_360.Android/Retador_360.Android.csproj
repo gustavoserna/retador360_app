@@ -86,9 +86,7 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\icon.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Resources\drawable\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\Retador_360\Retador_360.csproj">
       <Project>{754C6C36-95AC-42A8-93AE-7D4AAC420374}</Project>
@@ -102,6 +100,12 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\xml\file_paths.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\file_paths.xml">
+      <Generator>MSBuild:UpdateGeneratedFiles</Generator>
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>

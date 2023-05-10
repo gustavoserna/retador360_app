@@ -1278,3 +1278,4 @@ D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Ret
 D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
 D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\res\drawable\file_paths.xml

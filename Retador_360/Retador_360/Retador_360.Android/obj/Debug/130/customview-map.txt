@@ -23,6 +23,7 @@ com.google.android.material.tabs.TabLayout;D:\Users\Alonso Martinez\source\repos
 com.google.android.material.tabs.TabLayout;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\tabbar.xml
 declare-styleable;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\values\attrs.xml
 external-cache-path;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\54\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-files-path;obj\Debug\130\res\drawable\file_paths.xml
 external-files-path;obj\Debug\130\res\xml\file_paths.xml
 external-path;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\54\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj\Debug\130\res\mipmap-anydpi-v26\icon.xml
@@ -31,6 +32,7 @@ FrameLayout;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Ret
 item;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\values\styles.xml
 LinearLayout;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\bottomtablayout.xml
 paths;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\54\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+paths;obj\Debug\130\res\drawable\file_paths.xml
 paths;obj\Debug\130\res\xml\file_paths.xml
 resources;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\values\attrs.xml
 resources;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\values\strings.xml
