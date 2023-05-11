@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Alonso Martinez\\source\\repos\\retador360_app\\Retador_360\\Retador_360\\Retador_360\\Retador_360.csproj": {}
+    "E:\\Users\\Alonso Martinez\\source\\repos\\retador360_app\\Retador_360\\Retador_360\\Retador_360\\Retador_360.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Alonso Martinez\\source\\repos\\retador360_app\\Retador_360\\Retador_360\\Retador_360\\Retador_360.csproj": {
+    "E:\\Users\\Alonso Martinez\\source\\repos\\retador360_app\\Retador_360\\Retador_360\\Retador_360\\Retador_360.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Alonso Martinez\\source\\repos\\retador360_app\\Retador_360\\Retador_360\\Retador_360\\Retador_360.csproj",
+        "projectUniqueName": "E:\\Users\\Alonso Martinez\\source\\repos\\retador360_app\\Retador_360\\Retador_360\\Retador_360\\Retador_360.csproj",
         "projectName": "Retador_360",
-        "projectPath": "D:\\Users\\Alonso Martinez\\source\\repos\\retador360_app\\Retador_360\\Retador_360\\Retador_360\\Retador_360.csproj",
-        "packagesPath": "C:\\Users\\Alonso Martinez\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Alonso Martinez\\source\\repos\\retador360_app\\Retador_360\\Retador_360\\Retador_360\\obj\\",
+        "projectPath": "E:\\Users\\Alonso Martinez\\source\\repos\\retador360_app\\Retador_360\\Retador_360\\Retador_360\\Retador_360.csproj",
+        "packagesPath": "C:\\Users\\alons\\.nuget\\packages\\",
+        "outputPath": "E:\\Users\\Alonso Martinez\\source\\repos\\retador360_app\\Retador_360\\Retador_360\\Retador_360\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Alonso Martinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alons\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

@@ -3470,24 +3470,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alonso Martinez\\.nuget\\packages\\": {},
+    "C:\\Users\\alons\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Alonso Martinez\\source\\repos\\retador360_app\\Retador_360\\Retador_360\\Retador_360.Android\\Retador_360.Android.csproj",
+      "projectUniqueName": "E:\\Users\\Alonso Martinez\\source\\repos\\retador360_app\\Retador_360\\Retador_360\\Retador_360.Android\\Retador_360.Android.csproj",
       "projectName": "Retador_360.Android",
-      "projectPath": "D:\\Users\\Alonso Martinez\\source\\repos\\retador360_app\\Retador_360\\Retador_360\\Retador_360.Android\\Retador_360.Android.csproj",
-      "packagesPath": "C:\\Users\\Alonso Martinez\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Alonso Martinez\\source\\repos\\retador360_app\\Retador_360\\Retador_360\\Retador_360.Android\\obj\\",
+      "projectPath": "E:\\Users\\Alonso Martinez\\source\\repos\\retador360_app\\Retador_360\\Retador_360\\Retador_360.Android\\Retador_360.Android.csproj",
+      "packagesPath": "C:\\Users\\alons\\.nuget\\packages\\",
+      "outputPath": "E:\\Users\\Alonso Martinez\\source\\repos\\retador360_app\\Retador_360\\Retador_360\\Retador_360.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Alonso Martinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alons\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3501,8 +3501,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "D:\\Users\\Alonso Martinez\\source\\repos\\retador360_app\\Retador_360\\Retador_360\\Retador_360\\Retador_360.csproj": {
-              "projectPath": "D:\\Users\\Alonso Martinez\\source\\repos\\retador360_app\\Retador_360\\Retador_360\\Retador_360\\Retador_360.csproj"
+            "E:\\Users\\Alonso Martinez\\source\\repos\\retador360_app\\Retador_360\\Retador_360\\Retador_360\\Retador_360.csproj": {
+              "projectPath": "E:\\Users\\Alonso Martinez\\source\\repos\\retador360_app\\Retador_360\\Retador_360\\Retador_360\\Retador_360.csproj"
             }
           }
         }

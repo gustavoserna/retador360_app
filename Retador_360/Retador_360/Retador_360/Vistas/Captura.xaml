@@ -3,14 +3,17 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Retador_360.Vistas.Captura">
     <ContentPage.Content>
-        <StackLayout>
-            <Button x:Name="takeVideo" Text="Take Video" />
-            <Button x:Name="pickVideo" Text="Pick Video" />
-            <Label Text="Save to Gallery" />
-            <Switch x:Name="saveToGallery" IsToggled="False" HorizontalOptions="Center"/>
+        <StackLayout Spacing="10" Padding="10">
+            <Button x:Name="takePhoto" Text="Take Photo"/>
+            <Button x:Name="pickPhoto" Text="Pick Photo"/>
+            <Button x:Name="takeVideo" Text="Take Video"/>
+            <Button x:Name="pickVideo" Text="Pick Video"/>
+            <Label Text="Save to Gallery"/>
+            <Switch x:Name="saveToGallery" IsToggled="false" HorizontalOptions="Center"/>
             <Label Text="Image will show here"/>
-            <Image x:Name="image" />
-            <Label Text="" />
+            <Image x:Name="image"/>
+            <Label Text=""/>
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

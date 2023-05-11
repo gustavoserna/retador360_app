@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "awgLn/ISRtYR1AReX0K48w/cquavvuo2mpSaRlMDrC273Pxsj7FrIZQPZRCaVMnHi4KUfsZM5HtAO4yTLTEfrA==",
+  "dgSpecHash": "GWIhJXaEOCGrN4YFpfeXr/mSyrj0nwBGIDBCrtuf0yO7TwgBA2UighAhL599wthvlb+ghfowKX0IZA9OmZAUfw==",
   "success": true,
-  "projectFilePath": "D:\\Users\\Alonso Martinez\\source\\repos\\retador360_app\\Retador_360\\Retador_360\\Retador_360.iOS\\Retador_360.iOS.csproj",
+  "projectFilePath": "E:\\Users\\Alonso Martinez\\source\\repos\\retador360_app\\Retador_360\\Retador_360\\Retador_360.iOS\\Retador_360.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Alonso Martinez\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\Alonso Martinez\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
-    "C:\\Users\\Alonso Martinez\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\Alonso Martinez\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\alons\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\alons\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
+    "C:\\Users\\alons\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\alons\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
   "logs": []
 }
