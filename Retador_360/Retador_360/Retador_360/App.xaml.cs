@@ -11,7 +11,7 @@ namespace Retador_360
         {
             InitializeComponent();
 
-            MainPage = new Captura();
+            MainPage = new NavigationPage( new Captura());
         }
 
         protected override void OnStart()

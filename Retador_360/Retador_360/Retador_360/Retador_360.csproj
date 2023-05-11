@@ -11,6 +11,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Vistas\galleryDetail.xaml.cs" />
+    <Compile Remove="Vistas\galleryFlyout.xaml.cs" />
+    <Compile Remove="Vistas\galleryFlyoutMenuItem.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="Vistas\galleryDetail.xaml" />
+    <EmbeddedResource Remove="Vistas\galleryFlyout.xaml" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Xam.Plugin.Media" Version="5.0.1" />
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2196" />
     <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
@@ -24,6 +35,9 @@
 
   <ItemGroup>
     <EmbeddedResource Update="Vistas\Captura.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Vistas\Gallery.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>

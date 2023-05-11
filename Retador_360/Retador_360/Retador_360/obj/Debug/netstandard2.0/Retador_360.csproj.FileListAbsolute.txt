@@ -29,9 +29,6 @@ D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Ret
 D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360\obj\Debug\netstandard2.0\refint\Retador_360.dll
 D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360\obj\Debug\netstandard2.0\Retador_360.pdb
 D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360\obj\Debug\netstandard2.0\ref\Retador_360.dll
-E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360\bin\Debug\netstandard2.0\Retador_360.deps.json
-E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360\bin\Debug\netstandard2.0\Retador_360.dll
-E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360\bin\Debug\netstandard2.0\Retador_360.pdb
 E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360\obj\Debug\netstandard2.0\Retador_360.csproj.AssemblyReference.cache
 E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360\obj\Debug\netstandard2.0\Retador_360.GeneratedMSBuildEditorConfig.editorconfig
 E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360\obj\Debug\netstandard2.0\App.xaml.g.cs
@@ -40,8 +37,12 @@ E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Ret
 E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360\obj\Debug\netstandard2.0\Retador_360.AssemblyInfoInputs.cache
 E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360\obj\Debug\netstandard2.0\Retador_360.AssemblyInfo.cs
 E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360\obj\Debug\netstandard2.0\Retador_360.csproj.CoreCompileInputs.cache
-E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360\obj\Debug\netstandard2.0\XamlC.stamp
 E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360\obj\Debug\netstandard2.0\Retador_360.dll
 E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360\obj\Debug\netstandard2.0\refint\Retador_360.dll
 E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360\obj\Debug\netstandard2.0\Retador_360.pdb
+E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360\bin\Debug\netstandard2.0\Retador_360.deps.json
+E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360\bin\Debug\netstandard2.0\Retador_360.dll
+E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360\bin\Debug\netstandard2.0\Retador_360.pdb
+E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360\obj\Debug\netstandard2.0\XamlC.stamp
 E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360\obj\Debug\netstandard2.0\ref\Retador_360.dll
+E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360\obj\Debug\netstandard2.0\Vistas\gallery.xaml.g.cs
