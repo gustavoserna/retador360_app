@@ -25,11 +25,11 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=638193253048017697
+_nugetassetstimestamp=638194759439969443
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
-projectfullpath=e:\users\alonso martinez\source\repos\retador360_app\retador_360\retador_360\retador_360.android\retador_360.android.csproj
+projectfullpath=d:\users\alonso martinez\source\repos\retador360_app\retador_360\retador_360\retador_360.android\retador_360.android.csproj

@@ -1,10 +1,92 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Retador_360.Vistas.Gallery">
-  <ContentView.Content>
-      <StackLayout>
-          <Label Text="Hello Xamarin.Forms! buenaaaaaaaaaaaaaaaaaaaaaaaaasd" />
-      </StackLayout>
-  </ContentView.Content>
-</ContentView>
+    <ContentPage.Content>
+        <StackLayout>
+            <ListView
+                Grid.Row="0"
+                Grid.RowSpan="2"
+                BackgroundColor="Transparent"
+                Margin="0,0,0,20"
+                SeparatorVisibility="None"
+                HasUnevenRows="True"
+                IsPullToRefreshEnabled="True"
+                IsRefreshing="{Binding IsBusy, Mode=OneWay}"
+                ItemsSource="{Binding EventVideos}"
+                RefreshCommand="{Binding LoadVideosDeEventoCommand}">
+
+                <ListView.ItemTemplate>
+
+                    <DataTemplate>
+
+                        <ViewCell>
+
+                            <Frame
+                                HasShadow="False"
+                                CornerRadius="5"
+                                BackgroundColor="White"
+                                Margin="0,10,0,0">
+
+                                <StackLayout>
+
+                                    <Label
+                                        Text="{Binding path_video}"
+                                        FontAttributes="Bold"
+                                        FontSize="16"
+                                        TextColor="Black" />
+
+                                    <StackLayout
+                                        HorizontalOptions="FillAndExpand"
+                                        Orientation="Horizontal">
+
+                                        <Label
+                                            HorizontalOptions="StartAndExpand"
+                                            VerticalOptions="Center"
+                                            Text="{Binding duration}"
+                                            FontSize="14"
+                                            TextColor="Black" />
+
+
+                                    </StackLayout>
+
+                                </StackLayout>
+
+                            </Frame>
+
+                        </ViewCell>
+
+                    </DataTemplate>
+
+                </ListView.ItemTemplate>
+
+                <ListView.Footer>
+
+                    <!-- NOT FOUND -->
+                    <StackLayout
+                                    Grid.Row="0"
+                                    IsVisible="{Binding NotFound_Visibility_VideosEvento}"
+                                    VerticalOptions="FillAndExpand"
+                                    Padding="50">
+
+                        <!--<Image
+                                        HeightRequest="100"
+                                        HorizontalOptions="Center"
+                                        Source="nocupon.png" />-->
+
+                        <Label
+                                        Margin="0,20,0,0"
+                                        HorizontalOptions="Center"
+                                        HorizontalTextAlignment="Center"
+                                        TextColor="#ccc"
+                                        Text="No hay Videos"
+                                        FontSize="20"  />
+
+                    </StackLayout>
+
+                </ListView.Footer>
+
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

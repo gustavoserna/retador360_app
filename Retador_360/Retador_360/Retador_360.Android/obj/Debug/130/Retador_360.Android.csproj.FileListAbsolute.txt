@@ -1924,3 +1924,5 @@ E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Ret
 E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\res\drawable\file_paths.xml
 E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\res\drawable\wallpaper.gif
 E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\res\drawable\camera.png
+D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\res\drawable\wallpaper.gif
+D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\res\drawable\camera.png

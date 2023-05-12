@@ -5,8 +5,8 @@
              BackgroundImageSource="@drawable/wallpaper">
     <ContentPage.Content>
         <Grid>
-            <Button Text="Galeria" x:Name="goGallery" VerticalOptions="Start" HorizontalOptions="End" />
-            <Button Text="Video" ImageSource="@drawable/camera"  TextColor="DarkGreen"  x:Name="takeVideo"  HorizontalOptions="Fill" VerticalOptions="End" BorderColor="DarkGreen" BorderWidth="2" BackgroundColor="Transparent" />
+            <Button Text="Galeria"  x:Name="goGallery" VerticalOptions="Start" HorizontalOptions="End" />
+            <Button Text="Video"  TextColor="DarkBlue"  x:Name="takeVideo"  HorizontalOptions="Fill" VerticalOptions="End" BorderColor="DarkGreen" BorderWidth="2" BackgroundColor="Transparent" />
             
         </Grid>
     </ContentPage.Content>

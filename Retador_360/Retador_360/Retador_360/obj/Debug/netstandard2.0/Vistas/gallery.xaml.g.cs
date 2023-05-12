@@ -14,7 +14,7 @@ namespace Retador_360.Vistas {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Vistas\\Gallery.xaml")]
-    public partial class Gallery : global::Xamarin.Forms.ContentView {
+    public partial class Gallery : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {

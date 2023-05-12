@@ -21,7 +21,7 @@ namespace Retador_360.Vistas
         {
             InitializeComponent();
 
-
+            
             
             takeVideo.Clicked += async (sender, args) =>
             {
@@ -34,9 +34,12 @@ namespace Retador_360.Vistas
 
                 try
                 {
+                    string result = null;
+                    result = await DisplayPromptAsync("Video will be recorder", "Video Name");
+                    if (result == null) { return; }
                     var file = await CrossMedia.Current.TakeVideoAsync(new Plugin.Media.Abstractions.StoreVideoOptions
                     {
-                        Name = "video.mp4",
+                        Name = result+".mp4",
                         Directory = "Sample",
                         SaveToAlbum = true
                     });
@@ -48,7 +51,8 @@ namespace Retador_360.Vistas
                     file.Dispose();
 
 
-                    //Subir archivo al server
+                        //Subir archivo al server
+                
                 }
                 catch //(Exception ex)
                 {

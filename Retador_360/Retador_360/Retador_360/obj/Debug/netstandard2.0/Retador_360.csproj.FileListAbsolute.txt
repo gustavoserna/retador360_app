@@ -46,3 +46,4 @@ E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Ret
 E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360\obj\Debug\netstandard2.0\XamlC.stamp
 E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360\obj\Debug\netstandard2.0\ref\Retador_360.dll
 E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360\obj\Debug\netstandard2.0\Vistas\gallery.xaml.g.cs
+D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360\obj\Debug\netstandard2.0\Vistas\Gallery.xaml.g.cs

@@ -1,55 +1,54 @@
-@string/appbar_scrolling_view_behavior;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\rootlayout.xml
+@string/appbar_scrolling_view_behavior;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\rootlayout.xml
 adaptive-icon;obj\Debug\130\res\mipmap-anydpi-v26\icon.xml
 adaptive-icon;obj\Debug\130\res\mipmap-anydpi-v26\icon_round.xml
-alpha;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\anim\enterfromleft.xml
-alpha;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\anim\exittoleft.xml
-androidx.appcompat.widget.Toolbar;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\fallbacktoolbardonotuse.xml
-androidx.appcompat.widget.Toolbar;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\rootlayout.xml
-androidx.appcompat.widget.Toolbar;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\shellcontent.xml
-androidx.appcompat.widget.Toolbar;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\toolbar.xml
-androidx.coordinatorlayout.widget.CoordinatorLayout;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\rootlayout.xml
-androidx.coordinatorlayout.widget.CoordinatorLayout;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\shellcontent.xml
-attr;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\values\attrs.xml
+alpha;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\anim\enterfromleft.xml
+alpha;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\anim\exittoleft.xml
+androidx.appcompat.widget.Toolbar;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\fallbacktoolbardonotuse.xml
+androidx.appcompat.widget.Toolbar;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\rootlayout.xml
+androidx.appcompat.widget.Toolbar;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\shellcontent.xml
+androidx.appcompat.widget.Toolbar;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\toolbar.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\rootlayout.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\shellcontent.xml
+attr;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\values\attrs.xml
 background;obj\Debug\130\res\mipmap-anydpi-v26\icon.xml
 background;obj\Debug\130\res\mipmap-anydpi-v26\icon_round.xml
-cache-path;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\54\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+cache-path;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\54\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 color;obj\Debug\130\res\values\colors.xml
-com.google.android.material.appbar.AppBarLayout;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\flyoutcontent.xml
-com.google.android.material.appbar.AppBarLayout;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\rootlayout.xml
-com.google.android.material.appbar.AppBarLayout;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\shellcontent.xml
-com.google.android.material.bottomnavigation.BottomNavigationView;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\bottomtablayout.xml
-com.google.android.material.tabs.TabLayout;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\fallbacktabbardonotuse.xml
-com.google.android.material.tabs.TabLayout;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\rootlayout.xml
-com.google.android.material.tabs.TabLayout;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\tabbar.xml
-declare-styleable;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\values\attrs.xml
-external-cache-path;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\54\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+com.google.android.material.appbar.AppBarLayout;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\flyoutcontent.xml
+com.google.android.material.appbar.AppBarLayout;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\rootlayout.xml
+com.google.android.material.appbar.AppBarLayout;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\shellcontent.xml
+com.google.android.material.bottomnavigation.BottomNavigationView;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\bottomtablayout.xml
+com.google.android.material.tabs.TabLayout;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\fallbacktabbardonotuse.xml
+com.google.android.material.tabs.TabLayout;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\rootlayout.xml
+com.google.android.material.tabs.TabLayout;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\tabbar.xml
+declare-styleable;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\values\attrs.xml
+external-cache-path;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\54\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 external-files-path;obj\Debug\130\res\drawable\file_paths.xml
 external-files-path;obj\Debug\130\res\xml\file_paths.xml
-external-path;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\54\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\54\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj\Debug\130\res\mipmap-anydpi-v26\icon.xml
 foreground;obj\Debug\130\res\mipmap-anydpi-v26\icon_round.xml
-FrameLayout;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\bottomtablayout.xml
-internal-files-path;obj\Debug\130\res\xml\file_paths.xml
-item;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\values\styles.xml
-LinearLayout;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\bottomtablayout.xml
-paths;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\54\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+FrameLayout;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\bottomtablayout.xml
+item;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\values\styles.xml
+LinearLayout;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\bottomtablayout.xml
+paths;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\54\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 paths;obj\Debug\130\res\drawable\file_paths.xml
 paths;obj\Debug\130\res\xml\file_paths.xml
-resources;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\values\attrs.xml
-resources;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\values\strings.xml
-resources;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\values\styles.xml
+resources;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\values\attrs.xml
+resources;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\values\strings.xml
+resources;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\values\styles.xml
 resources;obj\Debug\130\res\values\colors.xml
 resources;obj\Debug\130\res\values\styles.xml
-set;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\anim\enterfromleft.xml
-set;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\anim\enterfromright.xml
-set;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\anim\exittoleft.xml
-set;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\anim\exittoright.xml
-string;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\values\strings.xml
-style;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\values\styles.xml
+set;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\anim\enterfromleft.xml
+set;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\anim\enterfromright.xml
+set;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\anim\exittoleft.xml
+set;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\anim\exittoright.xml
+string;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\values\strings.xml
+style;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\values\styles.xml
 style;obj\Debug\130\res\values\styles.xml
-translate;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\anim\enterfromleft.xml
-translate;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\anim\enterfromright.xml
-translate;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\anim\exittoleft.xml
-translate;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\anim\exittoright.xml
-xamarin.forms.platform.android.appcompat.FormsViewPager;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\rootlayout.xml
-xamarin.forms.platform.android.ShellFlyoutLayout;E:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\flyoutcontent.xml
+translate;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\anim\enterfromleft.xml
+translate;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\anim\enterfromright.xml
+translate;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\anim\exittoleft.xml
+translate;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\anim\exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\rootlayout.xml
+xamarin.forms.platform.android.ShellFlyoutLayout;D:\Users\Alonso Martinez\source\repos\retador360_app\Retador_360\Retador_360\Retador_360.Android\obj\Debug\130\lp\55\jl\res\layout\flyoutcontent.xml
