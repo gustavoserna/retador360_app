@@ -11,6 +11,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="ViewModel\Class1.cs" />
+    <Compile Remove="ViewModel\GalleryViewModel - Copia.cs" />
     <Compile Remove="Vistas\galleryDetail.xaml.cs" />
     <Compile Remove="Vistas\galleryFlyout.xaml.cs" />
     <Compile Remove="Vistas\galleryFlyoutMenuItem.cs" />

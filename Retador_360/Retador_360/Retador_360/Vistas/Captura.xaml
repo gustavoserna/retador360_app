@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Retador_360.Vistas.Captura"
-             BackgroundImageSource="@drawable/wallpaper">
+             x:Class="Retador_360.Vistas.Captura">
+             <!-- BackgroundImageSource="@drawable/wallpaper" --> 
     <ContentPage.Content>
         <Grid>
-            <Button Text="Galeria"  x:Name="goGallery" VerticalOptions="Start" HorizontalOptions="End" />
-            <Button Text="Video"  TextColor="DarkBlue"  x:Name="takeVideo"  HorizontalOptions="Fill" VerticalOptions="End" BorderColor="DarkGreen" BorderWidth="2" BackgroundColor="Transparent" />
+            <Button Text="Galeria"  x:Name="goGallery" VerticalOptions="Start" HorizontalOptions="End" BackgroundColor="AliceBlue" TextColor="DarkBlue" BorderColor="DarkCyan" BorderWidth="2" CornerRadius="50"/>
+            <Button Text="Video"  TextColor="DarkBlue"  x:Name="takeVideo"  HorizontalOptions="Fill" VerticalOptions="End" BorderColor="CadetBlue" BorderWidth="2" BackgroundColor="AliceBlue" CornerRadius="50"/>
             
         </Grid>
     </ContentPage.Content>

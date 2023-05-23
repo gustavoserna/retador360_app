@@ -11,6 +11,8 @@ using Xamarin.Forms.Xaml;
 using Xamarin.Essentials;
 using Plugin.Media.Abstractions;
 using Retador_360.Vistas;
+using System.Net.Http;
+using Retador_360.ViewModel;
 
 namespace Retador_360.Vistas
 {
@@ -41,22 +43,44 @@ namespace Retador_360.Vistas
                     {
                         Name = result+".mp4",
                         Directory = "Sample",
-                        SaveToAlbum = true
+                        //SaveToAlbum = true
+                        SaveToAlbum = false
                     });
 
                     if (file == null)
                         return;
                     await DisplayAlert("Video Recorded", "Location: " + (file.AlbumPath), "OK");
 
+                    //Subir archivo al server
+                    /*string path1 = file.Path.Replace(result + ".mp4", "");
+                    Console.WriteLine(path1);
+                    var files = Directory.GetFiles(path1);
+                    if (files.Any()) { 
+                        Console.WriteLine("files exists!!!");
+                        foreach (var file1 in files) {
+                            Console.WriteLine(file1);
+                            
+                        }
+                    }*/
+
+                    string fileName = file.Path;
+                    byte[] videoAsBytes;
+                    using (var memoryStream = new MemoryStream())
+                    {
+                        file.GetStream().CopyTo(memoryStream);
+                        file.Dispose();
+                        videoAsBytes = memoryStream.ToArray();
+                        if (videoAsBytes != null) {
+                            Console.WriteLine("Video Converted to Byte");
+                        }
+                    }
+                    CapturaViewModel cvw = new CapturaViewModel(file);
                     file.Dispose();
-
-
-                        //Subir archivo al server
                 
                 }
-                catch //(Exception ex)
+                catch (Exception ex)
                 {
-                    // Xamarin.Insights.Report(ex);
+                    Console.WriteLine(ex.ToString());
                     await DisplayAlert("Uh oh", "Something went wrong, but don't worry we captured it in Xamarin Insights! Thanks.", "OK");
                 }
             };
